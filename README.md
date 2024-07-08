@@ -1,1 +1,1 @@
-Esta es el README.mb creado desde mi computadora!
+Este proyecto e suna prueba de como crear un repositorio y como clonarlo a mi PC local.
